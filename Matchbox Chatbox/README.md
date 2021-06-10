@@ -1,6 +1,7 @@
 # JavaScript Chatbot 
 
-This is an AI bot that fit ino a Matchbox and be carried anywhere with your for peronal queries
-Enjoy!
+This is an AI bot that fits into a Matchbox and can be carried anywhere with you for personal queries
+development time 75 hours
+Aaron Kalvani
 
 [Demo](https://bots.pm/)
